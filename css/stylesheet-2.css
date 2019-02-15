@@ -1,0 +1,60 @@
+
+h3 {
+    font-size: 26pt;
+    font-family: 'Open Sans', sans-serif;
+    }
+
+
+body { 
+    font-size: 17pt;
+    color: navy;
+    font-family: 'Raleway', sans-serif;
+    background-color: lavendar;
+   }
+           
+        
+img {
+    size: fixed;
+    height: 280px;
+    width: 330px;
+     }
+
+        
+.wrapper-div div {
+    width: 400px;
+    height: 500px;
+    color: navy;
+    padding: 50px;
+    margin-right: 100px;
+    border: 1px lightblue;
+    }
+
+.wrapper-div span {
+    font-style: bold;
+ }        
+        
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: purple;
+  border: 3px dashed gray;
+  color: white;
+  text-align: center;
+     }
+
+#spacer1 {	
+	background-image: url(../img/spacer/sunset-view.jpg);
+}
+
+.spacer {
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	border-bottom:2px solid #fff;
+	color: white;
+	}
+

@@ -1,0 +1,32 @@
+From the about me section: I removed the following "col"
+
+        <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+     Removed from section heading, line 74  <div class="section-heading"> , added this line back, removed an additional <div class="row"    
+     removed '-md from the "col" code and replaced it with '-xs
+     removed the pull & push that I had first entered, it was to harsh on the page.
+     
+   * My goal is to add specific color to my <span> *
+   
+ Updated style.css, lines 90 & 91 for the transparent background color
+ 
+ updated line 10 of style.css; removed - @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,300,700,800);
+  ** removing other import font - changed my pages layout. **
+  
+  
+  line 149 bg color change
+ Image change 178 - updated spacer images
+ Updated line 194, with new coloer for header.
+ 
+ 
+ 
+ 
+ 
+ Updated Line-spacer font color 230
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Updated line 354 - ref line in the 1st person
