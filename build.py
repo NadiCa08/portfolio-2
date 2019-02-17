@@ -1,9 +1,10 @@
-print('site push')
+print('combining html files ')
+
 top = open('templates/top.html').read()
 
-body = open('body/activities.html').read()
+body = open('contents/activities.html').read()
 
-body2 = open('body/funfacts.html').read()
+body2 = open('contents/funfacts.html').read()
 
 bottom = open('templates/bottom.html').read()
 
