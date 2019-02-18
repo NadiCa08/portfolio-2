@@ -18,5 +18,3 @@ open('docs/built_file_activities.html', 'w+').write(combined_html_activities)
 
 
 
-
-
